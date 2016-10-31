@@ -1,0 +1,21 @@
+{
+  "name": "projeto-sass.dev",
+  "homepage": "https://github.com/cgiovanii/projeto-sass",
+  "authors": [
+    "cgiovanii <cgiovanii@gmail.com>"
+  ],
+  "description": "Template de projetos",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
